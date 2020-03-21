@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Rotaitor : MonoBehaviour
+public class Rotator : MonoBehaviour
 {
     
     public float spped = 100f;
